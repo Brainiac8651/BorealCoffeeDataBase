@@ -4,9 +4,11 @@
       "id": 1,
       "title": "NITRO COLD BREW",
       "price": "5.00",
+      "type": "Cold Brew",
+      "location": "Nicaragua, Honduras",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with our without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
-        "description2": "50% washed, 50% natural beans from Nicaragua and Honduras.",
+        "description2": "•  50% washed, 50% natural beans from Nicaragua and Honduras.",
         "description3": "Our small can is convenient to keep in your fridge and take on the go. Also available in packs of 40 for events or office spaces."
       },
       "images": {

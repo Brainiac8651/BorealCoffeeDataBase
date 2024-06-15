@@ -1,9 +1,9 @@
 {
-  "Products": [
+
+  "Beans": [
     {
       "id": 1,
       "title": "NITRO COLD BREW",
-      "product_type": "Beans",
       "price": "5.00",
       "type": "Cold Brew",
       "location": "Nicaragua, Honduras",
@@ -20,7 +20,6 @@
     {
       "id": 2,
   "title": "HOUSE BLEND",
-  "product_type": "Beans",
   "price": "12.50",
   "description": {
     "description1": "Indulge in our classic House Blend – a perfect mix of natural and washed processed coffee, boasting notes of hazelnuts, liquorice and blood orange. Ideal for espresso, French press or the classic Italian stovetop, it’s the backbone of our coffee shops.\n\nThis is the timeless espresso blend which we serve in our shops, crafted from 100% organic arabica beans:\n\n50% of the beans are washed\n50% undergo natural processing.\nThis coffee is organic certified by bio-inspecta."
@@ -33,7 +32,6 @@
     {
       "id": 3,
       "title": "MAMMA MIA'S",
-      "product_type": "Beans",
       "price": "12.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -48,7 +46,6 @@
     {
       "id": 4,
       "title": "PERU - CENFROCAFE",
-      "product_type": "Beans",
       "price": "15.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -63,7 +60,6 @@
     {
       "id": 5,
       "title": "HONDURAS - COMBRIFOL",
-      "product_type": "Beans",
       "price": "14.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -78,7 +74,6 @@
     {
       "id": 6,
       "title": "COLOMBIA - FONDO PAEZ",
-      "product_type": "Beans",
       "price": "16.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -93,7 +88,6 @@
     {
       "id": 7,
       "title": "GIFT CARD",
-      "product_type": "Beans",
       "price": "20.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -107,7 +101,6 @@
     {
       "id": 8,
       "title": "OBSIDIAN - ESPRESSO",
-      "product_type": "Beans",
       "price": "12.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -122,7 +115,6 @@
     {
       "id": 9,
       "title": "DRIP BAG - TARAMESA",
-      "product_type": "Beans",
       "price": "2.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -136,7 +128,6 @@
     {
       "id": 10,
       "title": "ECUADOR - FABRICIO CORONEL PILCO",
-      "product_type": "Beans",
       "price": "22.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -150,7 +141,6 @@
     {
       "id": 11,
       "title": "EL SALVADOR - BARAONA FAMILY",
-      "product_type": "Beans",
       "price": "19.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -165,7 +155,6 @@
     {
       "id": 12,
       "title": "NICARAGUA - OLMAN VALLADAREZ",
-      "product_type": "Beans",
       "price": "18.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -176,11 +165,12 @@
         "image1": "https://borealcoffee.ch/wp-content/uploads/2024/01/Olman-Valladarez-Package-600x800.png",
         "image2": "https://borealcoffee.ch/wp-content/uploads/2024/01/Olman-Valladarez-etiquette.png"
       }
-    },
+    }
+  ],
+  "Merch": [
     {
       "id": 13,
       "title": "GIFT CARD",
-      "product_type": "Merch",
       "price": "20.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -194,7 +184,6 @@
     {
       "id": 14,
       "title": "HARIO V60 PAPER STAND",
-      "product_type": "Merch",
       "price": "22.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -208,7 +197,6 @@
     {
       "id": 15,
       "title": "CHEMEX FILTERS FP2 (2 CUPS)",
-      "product_type": "Merch",
       "price": "11.70",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -222,7 +210,6 @@
     {
       "id": 16,
       "title": "CHEMEX FILTERS 6-10 CUPS",
-      "product_type": "Merch",
       "price": "13.20",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -236,7 +223,6 @@
     {
       "id": 17,
       "title": "HARIO V60 FILTERS SIZE 01",
-      "product_type": "Merch",
       "price": "9.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -250,7 +236,6 @@
     {
       "id": 18,
       "title": "HARIO V60 FILTERS SIZE 02",
-      "product_type": "Merch",
       "price": "9.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -264,7 +249,6 @@
     {
       "id": 19,
       "title": "AEROPRESS FILTERS",
-      "product_type": "Merch",
       "price": "9.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -278,7 +262,6 @@
     {
       "id": 20,
       "title": "AEROPRESS KIT",
-      "product_type": "Merch",
       "price": "39.90",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -292,7 +275,6 @@
     {
       "id": 21,
       "title": "STAINLESS STEEL KETTLE",
-      "product_type": "Merch",
       "price": "59.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -306,7 +288,6 @@
     {
       "id": 22,
       "title": "HARIO V60 CERAMIC KIT",
-      "product_type": "Merch",
       "price": "59.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -320,7 +301,6 @@
     {
       "id": 23,
       "title": "AEROPRESS GO",
-      "product_type": "Merch",
       "price": "47.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -334,7 +314,6 @@
     {
       "id": 24,
       "title": "NITRO COLD BREW",
-      "product_type": "Merch",
       "price": "5.00",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -348,7 +327,6 @@
     {
       "id": 25,
       "title": "AIRSCAPE 500G",
-      "product_type": "Merch",
       "price": "42.90",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -362,7 +340,6 @@
     {
       "id": 26,
       "title": "THERMOS MUG",
-      "product_type": "Merch",
       "price": "32.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",
@@ -376,7 +353,6 @@
     {
       "id": 27,
       "title": "BASKET PAPER FILTER",
-      "product_type": "Merch",
       "price": "7.50",
       "description": {
         "description1": "Indulge in our refreshing and energizing cold brew. Served chilled, with or without ice-cubes, this dark roast boasts a rich flavour of dark chocolate and caramel.",

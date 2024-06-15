@@ -1,4 +1,6 @@
 {
+  "all": [ {
+      
   "Beans": [
     {
       "id": 1,
@@ -362,5 +364,7 @@
         "image1": "https://borealcoffee.ch/wp-content/uploads/2023/11/kcun-8-300x300.png"
       }
     }
+  ]
+}
   ]
 }
